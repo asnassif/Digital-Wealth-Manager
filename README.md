@@ -6,7 +6,7 @@ To provide any individual ivestor with the same type of investment advise/recomm
 
 The advantages of this App over real Wealth Manager are mainly:
 `availability 24/7`
-`Comparatively lower adisory/consultancy fees compared to real Wealth Managers
+`Comparatively lower advisory fees compared to real Wealth Managers`
 
 ## Data Source(s):
 * `Real Time Stock Market jsonfied data using an API 
