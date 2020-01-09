@@ -2,8 +2,11 @@
 
 ## Scope:
 
-To create an Application which can provide any individual ivestor  with the same type of advise which any Wealth Manager could provide Her or His clients with.
-The advantages of this App over real Wealth Manager are mainly its availability 24/7 in addition to comparatively lower fee compared to real financial advisors would charge his clients for.
+To create an Application which can provide any individual ivestor with the same type ofinvestment advise/recommendation, which any Wealth Manager could provide His clients with.
+
+The advantages of this App over real Wealth Manager are mainly:
+`24/7 availability`
+`Comparatively lower paid fees compared to real Wealth Managers
 
 
 ```python
