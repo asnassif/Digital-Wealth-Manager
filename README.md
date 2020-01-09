@@ -16,7 +16,10 @@ The advantages of this App over real Wealth Manager are mainly:
 * `List of companies names with their correspoding Stock Symbols, Industries and Sectors`
 * `A reference table with Traded Companies' geographical locations can be added as well, to provide anotther analytic dimensions`
 
-#### More data will be added to the upcoming versions of DWM App. 
+#### More data will be added to the upcoming versions of DWM App, this will include more market data, metrics and ratios
+
+
+
 
 
 
