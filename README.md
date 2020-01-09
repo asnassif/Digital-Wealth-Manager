@@ -2,7 +2,7 @@
 
 ## Application Use Case:
 
-To provide any individual ivestor with the same type of investment advise/recommendations , which a Wealth Manager could provide His clients with.
+To provide any individual ivestor with the same type of investment advise/recommendations , which a Wealth Manager could provide Her /His clients with.
 
 The advantages of this App over real Wealth Manager are mainly:
 `availability 24/7`,
