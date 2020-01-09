@@ -14,7 +14,7 @@ The advantages of this App over real Wealth Manager are mainly:
 Other Data Sources`
 
 * `List of companies names with their correspoding Stock Symbols, Industries and Sectors`
-* `A reference table with Traded Companies' geographical locations can be added as well, to provide anotther analytic dimenstions`
+* `A reference table with Traded Companies' geographical locations can be added as well, to provide anotther analytic dimensions`
 
 
 
