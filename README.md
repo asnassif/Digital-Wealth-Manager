@@ -9,9 +9,8 @@ The advantages of this App over real Wealth Manager are mainly:
 `Comparatively lower paid fees compared to real Wealth Managers
 
 
-```python
-
-##Main Data Source:
+```##python
+Main Data Source:
 
 ```
 * `Real Time Stock Market API`
