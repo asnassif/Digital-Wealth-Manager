@@ -13,7 +13,7 @@ Main Data Source:
 ```
 * `Real Time Stock Market API`
 
-`Other Data Sources`
+Other Data Sources`
 
 * `List of companies names` 
 * `Industries and Secotors of Traded companies in the Stock Exchange Market`
