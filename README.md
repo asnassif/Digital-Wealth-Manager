@@ -6,14 +6,14 @@ To create an Application which can provide any individual ivestor with the same 
 
 The advantages of this App over real Wealth Manager sare mainly:
 `availability 24/7`
-`Comparatively lower paid fees compared to real Wealth Managers
+`Comparatively lower adisory/consultancy fees compared to real Wealth Managers
 
 
 ```##python
 Main Data Source:
 
 ```
-* `Real Time Stock Market API`
+* `Real Time Stock Market json data using an API `
 
 Other Data Sources`
 
