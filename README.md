@@ -1,5 +1,21 @@
-# Digital-Wealth-Manager
+# Digital Wealth Manager App
 
-## Scope of project
+## Scope of project:
 
-The scope of this project is to create a an Application that can provide the user with the same type of advise that a Wealth Manager would provide any client with, based on using Markets real time data using an API
+To create an Application which can provide any individual ivestor  with the same type of advise which any Wealth Manager could provide Her or His clients with.
+The advantages of this App over real Wealth Manager are mainly its availability 24/7 in addition to comparatively lower fee compared to real financial advisors would charge his clients for
+
+## Data Sources:
+
+
+```python
+## Data Sources:
+```
+
+* `Real Time Stock Market API`
+* `List of Names, Industries and Secotors of Traded companies in the Stock Exchange Market`
+
+
+
+
+
