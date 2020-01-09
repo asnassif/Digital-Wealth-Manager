@@ -2,7 +2,7 @@
 
 ## Scope:
 
-To create an Application which can provide any individual ivestor with the same type of investment advise/recommendations, which a Wealth Manager could provide His clients with.
+To create an Application which can provide any individual ivestor with the same type of investment advise/recommendations , which a Wealth Manager could provide His clients with.
 
 The advantages of this App over real Wealth Manager sare mainly:
 `availability 24/7`
