@@ -8,11 +8,7 @@ The advantages of this App over real Wealth Manager sare mainly:
 `availability 24/7`
 `Comparatively lower adisory/consultancy fees compared to real Wealth Managers
 
-
-```##python
-Main Data Source:
-
-```
+## Data Source(s):
 * `Real Time Stock Market json data using an API `
 
 Other Data Sources`
