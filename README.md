@@ -8,13 +8,15 @@ The advantages of this App over real Wealth Manager are mainly its availability 
 
 ```python
 
-# Data Sources:
+# Main Data Source:
 
 ```
-
-
 * `Real Time Stock Market API`
-* `List of Names, Industries and Secotors of Traded companies in the Stock Exchange Market`
+
+`Other Data Sources`
+
+* `List of companies names` 
+* `Industries and Secotors of Traded companies in the Stock Exchange Market`
 
 
 
