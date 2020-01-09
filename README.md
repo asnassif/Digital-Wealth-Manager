@@ -17,8 +17,10 @@ Main Data Source:
 
 Other Data Sources`
 
-* `List of companies names`
-* `Industries and Secotors of Traded companies in the Stock Exchange Market`
+* `List of companies names with their correspoding Stock Symbols, Industries and Sectors`
+* A reference table with Traded Companies' geographical locations can be added as well, to provide anotther analysis dimenstions
+
+
 
 
 
