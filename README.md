@@ -19,6 +19,15 @@ The advantages of this App over real Wealth Manager are mainly:
 #### More data will be added to the upcoming versions of DWM App, this will include more market data, metrics and ratios
 
 
+## App Components:
+
+`* Python Flask App to pull the needed data using an API`
+`* Pthon model to create the database schema`
+`* Postgres database`
+`* HTML landing page`
+`* CSS - Bootstrap file`
+
+
 
 
 
