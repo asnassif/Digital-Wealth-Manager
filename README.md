@@ -1,10 +1,10 @@
 # Digital Wealth Manager App
 
-## Scope:
+## Application Use Case:
 
-To create an Application which can provide any individual ivestor with the same type of investment advise/recommendations , which a Wealth Manager could provide His clients with.
+To provide any individual ivestor with the same type of investment advise/recommendations , which a Wealth Manager could provide His clients with.
 
-The advantages of this App over real Wealth Manager sare mainly:
+The advantages of this App over real Wealth Manager are mainly:
 `availability 24/7`
 `Comparatively lower adisory/consultancy fees compared to real Wealth Managers
 
