@@ -6,7 +6,7 @@ To provide any individual ivestor with the same type of investment advise/recomm
 
 The advantages of this App over real Wealth Manager are mainly:
 `availability 24/7`,
-` allow the user to build her/his own investment strategy`
+` allow the user to build her/his own investment strategy`,
 `Comparatively lower advisory fees`
 
 ## Data Source:
