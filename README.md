@@ -10,7 +10,7 @@ The advantages of this App over real Wealth Manager sare mainly:
 
 
 ```##python
-`Main Data Source:`
+Main Data Source:
 
 ```
 * `Real Time Stock Market API`
