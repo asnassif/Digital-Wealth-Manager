@@ -31,7 +31,7 @@ The advantages of this App over real Wealth Manager are mainly:
 #### By clicking on the Wealth Manager SVG icon this will clear the data in Postgres database, and pull new data using Flask App
 
 
-## Note: the files included doesn't include the Flask App and CSS files. this repository created as a demo.
+## Note: the files included doesn't include the Flask App and model files. this repository created as a demo.
 
 
 
