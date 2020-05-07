@@ -24,8 +24,8 @@ The advantages of this App over real Wealth Manager are mainly:
 
 * Python Flask App to pull the needed data using an API
 * Pthon model to create the database schema
-* Postgres database
-* HTML landing page
+* Postgres database (this could be replaced with either an SQLite or MongoDB based on the data type and source)
+* HTML landing page (More pages will be added as we build the App)
 * CSS -(Bootstrap) file
 
 #### By clicking on the Wealth Manager SVG icon this will clear the data in Postgres database, and pull new data using Flask App
